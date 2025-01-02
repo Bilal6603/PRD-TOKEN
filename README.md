@@ -52,6 +52,6 @@ Technical Details
 Contact
 
 For more information:
-	•	Website: Qudrara
+	•	Website: Qudrara.com
 	•	GitHub Repository: providentia PRD-TOKEN
 	•	Email: info@qudarara.com
